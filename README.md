@@ -1,7 +1,7 @@
-# 📊 50 SQL Problems – Practice & Solutions
+# 📊 50 SQL Problems of [LeetCode](https://leetcode.com/studyplan/top-sql-50/) – Practice & Solutions
 
 Welcome to the **SQL Practice Problems** repository! 🚀  
-This repo contains **50 carefully selected SQL problems** designed to help you master SQL with real-world-style challenges.
+This repo contains **50 carefully selected SQL problems of LeetCode**.
 
 Each problem includes:
 - 📄 **Problem Description**
